@@ -1,4 +1,5 @@
+#output
 output "result" {
-  value = aws_vpc.jaya-vpc.id
+  value = aws_vpc.jaya-vpc
 
 }
